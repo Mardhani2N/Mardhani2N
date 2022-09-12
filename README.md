@@ -5,7 +5,7 @@ Mardhani2N/Mardhani2N is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-https://github-readme-stats.vercel.app/api?username=Mardhani2N&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=Mardhani2N&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mardhani2N&show_icons=true&theme=radical">
