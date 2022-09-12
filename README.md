@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 👋 Hi, I’m @Mardhani2N
-- 👀 I’m interested in web developing and data analizing
+- 👀 I’m interested in web development and data analytics.
 - 📫 How to reach me in : [LinkedIn] - https://www.linkedin.com/in/mardhani-dwi-novianto-b3205b218/
 
 <!--- 
