@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardhani2N&layout=compact">
 
 👋 Hi, I’m Mardhani Dwi Novianto
-- 👀 I’m interested in web development and data field such as data science.
+- 👀 I’m interested in ata field such as data science and data analytics..
 - 📫 How to reach me in : [LinkedIn] - https://www.linkedin.com/in/mardhani-dwi-novianto/
 
 <!--- 
